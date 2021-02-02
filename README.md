@@ -12,7 +12,7 @@
 - [x]  코세라 강의 듣기
 - [x]  Tensorflow Certification 취득
 
-## Cousera 강의 : DeepLearning AI TensorFlow
+## Cousera 강의 정리(notion page) : DeepLearning AI TensorFlow
 
 [1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.notion.so/1-Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning-12d0129f6aef42ac8d6791b4fef7c6b5)
 
